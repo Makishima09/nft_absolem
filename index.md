@@ -1,3 +1,0 @@
-#HELLO THERE!
-
-#Welcome!
