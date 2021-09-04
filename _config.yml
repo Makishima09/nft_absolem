@@ -1,6 +1,6 @@
 name: Absolem CNFT
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+url: https://makishima09.github.io/nft_absolem/
+description: Blog para la guía de creación de NFTs de la red de Cardano
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
