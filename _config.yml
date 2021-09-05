@@ -1,9 +1,0 @@
-name: Absolem CNFT
-url: https://makishima09.github.io/nft_absolem/
-description: Blog para la guía de creación de NFTs de la red de Cardano
-
-permalink: /:year/:month/:day/:title/
-paginate: 10
-
-gems: [jekyll-paginate]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
