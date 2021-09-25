@@ -3,8 +3,10 @@ title: About
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hey! Este sitio ha sido creado para explicar pasos sencillos en cuanto a las tramitaciones con NFTs de la red de Cardano.
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+Espero que te sea de utilidad aunque aún está en continuo progreso.
 
-(Change this by editing `about.md` file)
+Aquí puedes encontrar mi Twitter:
+
+<a rel="me" target="_blank" href="https://twitter.com/AbsolemCNFT">AbsolemCNFT</a>
